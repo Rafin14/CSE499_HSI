@@ -1,0 +1,9 @@
+ENVI
+samples = 32
+lines   = 32
+bands   = 320
+header offset = 0
+file type = ENVI Standard
+data type = 4  # Float32
+interleave = bil
+byte order = 0
